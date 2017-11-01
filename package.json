@@ -1,0 +1,10 @@
+{
+  "name": "nuxt_itp_test",
+  "version": "0.0.1",
+  "dependencies": {
+    
+  },
+  "scripts": {
+    "dev": "nuxt"
+  }
+}
