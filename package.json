@@ -2,7 +2,7 @@
   "name": "nuxt_itp_test",
   "version": "0.0.1",
   "dependencies": {
-    
+    "nuxt": "^1.0.0-rc11"
   },
   "scripts": {
     "dev": "nuxt"
