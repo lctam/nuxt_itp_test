@@ -1,5 +1,5 @@
 <template>
-    <p>Welcome signed in user!</p>
+    <p>Welcome signed in user! Here's your content.</p>
 </template>
 
 <script>
